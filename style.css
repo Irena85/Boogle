@@ -1,0 +1,48 @@
+body {
+  text-align: center;
+}
+
+button {
+  text-align: center;
+}
+
+.head {
+  position: absolute;
+  top: 15px;
+  right: 40px;
+}
+
+header {
+  width: 100%;
+}
+
+
+.image {
+  width: 300px;
+  hight: 60px;
+  margin-top: 200px;
+  image: center;
+}
+
+.gmail {
+  margin-right: 100px;
+  color: red;
+  padding: 100px;
+  border: solid 3px black;
+}
+
+.header tr {
+  padding: 100px;
+  border: solid 3px black;
+
+}
+
+.form {
+  text-align: center;
+}
+
+#form-search {
+  width: 450px;
+  line-height: 5px;
+  padding: 10px 10px;
+}
